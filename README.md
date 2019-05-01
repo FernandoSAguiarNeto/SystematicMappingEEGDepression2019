@@ -10,7 +10,7 @@ ____
 
 **Information:** Reference keys matching the article, title and year of accepted and reported articles.
 
-**Link:** [AcceptedReferencesPLACEHOLDER](https://drive.google.com/open?id=1Bf4uUGv7IJJemhdvClgkMOx_o_QP8rZc)
+**Link:** [AcceptedReferences](https://drive.google.com/open?id=1gBfvr1qk58asz-KuLd_cLlFro8bJZzte)
 
 **BibTex with accepted articles:**
 [BibTex](https://docs.google.com/document/d/10IfhmItm-2rXunVZJKfR8RjsPVlZh-52Xlwx6MjF_g4/edit?usp=sharing)
